@@ -2,7 +2,7 @@
     "name":             "almediatama/plesk-api",
     "description":      "PHP client for the Plesk RPC API",
     "keywords":         ["php", "plesk", "api"],
-    "homepage":         "https://github.com/almediatama/almediatama/plesk-api",
+    "homepage":         "https://github.com/almediatama/plesk-api",
     "time":             "2019-11-13",
     "license": "MIT",
     "authors": [
