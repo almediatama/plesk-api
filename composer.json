@@ -1,15 +1,15 @@
 {
     "name":             "almediatama/plesk-api",
     "description":      "PHP client for the Plesk RPC API",
-    "keywords":         ["php", "plesk", "api"],
+    "keywords":         ["php", "plesk", "api","plesk api"],
     "homepage":         "https://github.com/almediatama/plesk-api",
     "time":             "2019-11-13",
     "license": "MIT",
     "authors": [
         {
-            "name":         "almediatama",
+            "name":         "Anak Lanang Mediatama",
             "email":        "ahoyci@gmail.com",
-            "homepage":     "https://github.com/almediatama",
+            "homepage":     "https://almediatama.web.id",
             "role":         "Author"
         }
     ],
